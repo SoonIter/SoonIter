@@ -32,3 +32,7 @@
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
+
+[zhihu](https://www.zhihu.com/people/mu-liao-ge-mu-2) [Github](https://github.com/SoonIter) [bilibili](https://space.bilibili.com/12711514/) [juejin](https://juejin.cn/user/3809127289339464)
+
+
