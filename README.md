@@ -33,6 +33,13 @@
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
 
-[zhihu](https://www.zhihu.com/people/mu-liao-ge-mu-2) [Github](https://github.com/SoonIter) [bilibili](https://space.bilibili.com/12711514/) [juejin](https://juejin.cn/user/3809127289339464)
+<p align="center">
+  <samp>
+    <a href="https://github.com/SoonIter">Github</a> .
+    <a href="https://space.bilibili.com/12711514/">bilibili</a> .
+    <a href="https://juejin.cn/user/3809127289339464">juejin</a> .
+    <a href="https://www.zhihu.com/people/mu-liao-ge-mu-2">zhihu</a> 
+  </samp>
+</p>
 
 
