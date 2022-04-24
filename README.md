@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoonIter ,a college student in China
+- 👋 Hi, I’m @SoonIter ,a college student in China cumt
 - 🎨 I’m interested in frontend, javascript
 - 🌱 frontend group leader in FlyingStudio which is an organization in my college.
 - ✨ like code, also like to change the world.
