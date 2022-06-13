@@ -29,6 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/VSCodeVim/Vim/master/images/icon.png" alt="vscodevim" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
