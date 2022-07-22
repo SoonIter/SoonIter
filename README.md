@@ -2,7 +2,14 @@
 - 🎨 I’m interested in frontend, javascript
 - 🌱 frontend group leader in FlyingStudio which is an organization in my college.
 - ✨ like code, also like to change the world.
-
+<p align="center">
+  <samp>
+    <a href="https://github.com/SoonIter">Github</a> .
+    <a href="https://space.bilibili.com/12711514/">bilibili</a> .
+    <a href="https://juejin.cn/user/3809127289339464">juejin</a> .
+    <a href="https://www.zhihu.com/people/mu-liao-ge-mu-2">zhihu</a> 
+  </samp>
+</p>
 #### Languages
 
 <!-- languages:start -->
@@ -43,13 +50,19 @@
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
-<p align="center">
-  <samp>
-    <a href="https://github.com/SoonIter">Github</a> .
-    <a href="https://space.bilibili.com/12711514/">bilibili</a> .
-    <a href="https://juejin.cn/user/3809127289339464">juejin</a> .
-    <a href="https://www.zhihu.com/people/mu-liao-ge-mu-2">zhihu</a> 
-  </samp>
-</p>
+
+
+#### My Owesome Projects
+
+<a href="https://github.com/SoonIter/soon-cli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=pinia-dux&theme=buefy" />
+</a>
+<a href="https://github.com/loatheb/loatheb.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=dsemi-react-playground-repl&theme=buefy" />
+</a>
+<a href="https://github.com/SoonIter/soon-cli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=soon-cli&theme=buefy" />
+</a>
+
 
 
