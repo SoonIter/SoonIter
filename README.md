@@ -55,15 +55,18 @@
 
 #### My Owesome Projects
 
-<a href="https://github.com/SoonIter/soon-cli">
+<a href="https://github.com/SoonIter/pinia-dux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=pinia-dux&theme=buefy" />
 </a>
-<a href="https://github.com/loatheb/loatheb.github.io">
+<a href="https://github.com/SoonIter/dsemi-react-playground-repl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=dsemi-react-playground-repl&theme=buefy" />
 </a>
 <a href="https://github.com/SoonIter/soon-cli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=soon-cli&theme=buefy" />
-</a>
+  </a>
+  <a href="https://github.com/SoonIter/https://github.com/SoonIter/type-challenges-sooniter-answers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=https://github.com/SoonIter/type-challenges-sooniter-answersi&theme=buefy" />
+  </a>
 
 
 
