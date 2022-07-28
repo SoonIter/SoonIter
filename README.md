@@ -65,7 +65,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=soon-cli&theme=buefy" />
   </a>
   <a href="https://github.com/SoonIter/https://github.com/SoonIter/type-challenges-sooniter-answers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=https://github.com/SoonIter/type-challenges-sooniter-answersi&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=type-challenges-sooniter-answersi&theme=buefy" />
   </a>
 
 
