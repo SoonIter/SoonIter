@@ -56,17 +56,20 @@
 #### My Owesome Projects
 
 <a href="https://github.com/SoonIter/pinia-dux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=pinia-dux&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=pinia-dux" />
 </a>
 <a href="https://github.com/SoonIter/dsemi-react-playground-repl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=dsemi-react-playground-repl&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=dsemi-react-playground-repl" />
 </a>
 <a href="https://github.com/SoonIter/soon-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=soon-cli&theme=buefy" />
-  </a>
-  <a href="https://github.com/SoonIter/type-challenges-sooniter-answers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=type-challenges-sooniter-answers&theme=buefy" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=soon-cli" />
+</a>
+<a href="https://github.com/SoonIter/type-challenges-sooniter-answers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=type-challenges-sooniter-answers" />
+</a>
+<a href="https://github.com/cumtflyingstudio/tampermonkey-emoji-commit-github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
+</a>
 
 
 
