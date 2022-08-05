@@ -70,6 +70,8 @@
 <a href="https://github.com/cumtflyingstudio/tampermonkey-emoji-commit-github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
 </a>
-
+<a href="https://github.com/SoonIter/tampermonkey-removePrefix-bilibili">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=tampermonkey-removePrefix-bilibili" />
+</a>
 
 
