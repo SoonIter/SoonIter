@@ -58,8 +58,8 @@
 <a href="https://github.com/SoonIter/pinia-dux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=pinia-dux" />
 </a>
-<a href="https://github.com/SoonIter/dsemi-react-playground-repl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=dsemi-react-playground-repl" />
+<a href="https://github.com/SoonIter/semi-design-solid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=semi-design-solid" />
 </a>
 <a href="https://github.com/SoonIter/soon-cli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=soon-cli" />
