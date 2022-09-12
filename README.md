@@ -5,9 +5,10 @@
 <p align="center">
   <samp>
     <a href="https://github.com/SoonIter">Github</a> .
+    <a href="https://twitter.com/Soon_Iter">twitter</a> .
     <a href="https://space.bilibili.com/12711514/">bilibili</a> .
     <a href="https://juejin.cn/user/3809127289339464">juejin</a> .
-    <a href="https://www.zhihu.com/people/mu-liao-ge-mu-2">zhihu</a> 
+    <a href="https://www.zhihu.com/people/mu-liao-ge-mu-2">zhihu</a>
   </samp>
 </p>
 
