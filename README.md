@@ -59,7 +59,8 @@
 
 
 #### My Owesome Projects
-
+<details>
+<summary>For my own</summary>
 <a href="https://github.com/SoonIter/pinia-dux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=pinia-dux" />
 </a>
@@ -72,12 +73,37 @@
 <a href="https://github.com/SoonIter/type-challenges-sooniter-answers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=type-challenges-sooniter-answers" />
 </a>
+</details>
+
+<details>
+<summary>Tampermonkey-script</summary>
 <a href="https://github.com/cumtflyingstudio/tampermonkey-emoji-commit-github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
 </a>
 <a href="https://github.com/SoonIter/tampermonkey-removePrefix-bilibili">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=tampermonkey-removePrefix-bilibili" />
 </a>
+</details>
+
+
+<details>
+<summary>For My Team</summary>
+<a href="https://github.com/cumtflyingstudio/tampermonkey-emoji-commit-github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
+</a>
+<a href="https://github.com/cumtflyingstudio/qiangcaima">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=qiangcaima" />
+</a>
+<a href="https://github.com/cumtflyingstudio/slidev-theme-flyingstudio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=slidev-theme-flyingstudio" />
+</a>
+<a href="https://github.com/cumtflyingstudio/github-learn-board">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=github-learn-board" />
+</a>
+<a href="https://github.com/cumtflyingstudio/usePagination">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=usePagination" />
+</a>
+</details>
 
 
 
