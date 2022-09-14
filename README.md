@@ -76,6 +76,19 @@
 </details>
 
 <details>
+<summary>Solid-js</summary>
+<a href="https://github.com/SoonIter/semi-design-solid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=semi-design-solid" />
+</a>
+<a href="https://github.com/SoonIter/solid-hookstore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=solid-hookstore" />
+</a>
+<a href="https://github.com/SoonIter/unplugin-svg2solid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=unplugin-svg2solid" />
+</a>
+</details>
+
+<details>
 <summary>Tampermonkey-script</summary>
 <a href="https://github.com/cumtflyingstudio/tampermonkey-emoji-commit-github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
