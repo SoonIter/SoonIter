@@ -1,5 +1,4 @@
 <script setup lang="ts">
-// const router = useRouter()
 const { t } = useI18n()
 const showList = reactive([1, 0])
 const currIndex = ref(0)
