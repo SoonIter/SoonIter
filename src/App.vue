@@ -1,6 +1,13 @@
 <script setup lang="ts">
 import { StarportCarrier } from 'vue-starport'
+// mport { OverlayScrollbars } from 'overlayscrollbars'
 
+// import 'overlayscrollbars/overlayscrollbars.css'
+// OverlayScrollbars(document.body, {
+//   overflow: {
+//     x: 'hidden',
+//   },
+// })
 useHead({
   title: 'Vitesse - sooniter',
   meta: [

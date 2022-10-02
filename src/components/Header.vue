@@ -1,16 +1,18 @@
 <script setup lang="ts">
-const { y } = useWindowScroll()
 </script>
 
 <template>
   <Transition name="fade">
     <header
-      v-show="!isLargeScreen || y > 200" id="header" bg="#f5f5f520" dark="bg-#333333 border-dark border-b" flex
+      id="header" bg="#f5f5f520" dark="bg-#333333 border-dark border-b" flex
       justify-between items-center
     >
       <section flex gap-2 text-5>
         <Home />
         <About />
+      </section>
+      <section id="header-tabs">
+        <div />
       </section>
       <section flex gap-2 text-5>
         <Dark />

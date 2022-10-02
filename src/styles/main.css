@@ -5,7 +5,8 @@
 }
 
 html,
-body,#app {
+body,
+#app {
   height: 100%;
   margin: 0;
   padding: 0;
@@ -14,20 +15,54 @@ body,#app {
   -webkit-tap-highlight-color: transparent;
 }
 
+
+
+body::-webkit-scrollbar {
+  width: 5px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+body::-webkit-scrollbar-track {
+  background-color: rgba(0, 0, 0, 0);
+  border-radius: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-image: -webkit-gradient(linear,
+      left bottom,
+      left top,
+      color-stop(0.44, rgba(88, 126, 192, 0.7)),
+      color-stop(0.62, rgba(91, 139, 198, 0.7)),
+      color-stop(0.86, rgba(105, 136, 229, 0.7)));
+}
+
+
+html.dark body::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: rgba(85, 85, 85, 0.8);
+}
+
+
+
 h1 {
   color: #edf0f1
 }
 
+
 html:not(.dark) {
   background: #f5f5f5;
+  transition: background 0.5s ease;
   color-scheme: light;
-  /* color: #4d6a9a; */
 }
+
 
 html.dark {
   background: #222222;
   color-scheme: dark;
   color: #c7c7c7;
+  transition: background 0.5s ease;
+
 }
 
 #nprogress {

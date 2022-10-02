@@ -1,4 +1,5 @@
 <script setup lang="ts">
+
 </script>
 
 <template>
@@ -6,9 +7,10 @@
     <aside md="h-full w-80 bg-opacity-0">
       <ProfileCard />
     </aside>
-    <div md="flex-1" md:max-w-150 flex flex-col gap-4 overflow-y-visible>
-      <Tabs />
-      <AriticleList />
+    <div md="flex-1" md:max-w-150 flex flex-col gap-4>
+      <Suspense>
+        <Tabs />
+      </Suspense>
       <Footer />
     </div>
   </main>
@@ -18,3 +20,7 @@
 
 </style>
 
+<route lang="yaml">
+meta:
+  layout: home
+</route>

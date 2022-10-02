@@ -1,4 +1,5 @@
 <script setup lang="ts">
+await nextTick()
 const { t } = useI18n()
 const showList = reactive([1, 0])
 const currIndex = ref(0)
@@ -14,14 +15,22 @@ function change(index: number) {
 </script>
 
 <template>
-  <div overflow-hidden>
-    <div flex flex-row>
-      <div v-for="(item, index) in showList" :key="index">
-        <button :bg="item && 'blue'" btn text-sm m="3 t8" @click="change(index)">
+  <div>
+    <div h-50px flex flex-row gap-2>
+      <div v-for="(item, index) in showList" :key="index" flex flex-col gap-1>
+        <div
+          text-sm px-2 py-1
+          hover="bg-opacity-40 bg-gray"
+          cursor-pointer
+          rounded-sm
+          :text="!item && 'gray'"
+          :font="item && 'bold'"
+          @click="change(index)"
+        >
           {{ t('button.back') }}
-        </button>
+        </div>
         <Starport v-if="item" port="tabBar" h-1 w-full>
-          <div bg-blue h-1 px-10 />
+          <div bg-blue h-1 rd-full />
         </Starport>
       </div>
     </div>

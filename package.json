@@ -21,6 +21,7 @@
     "gray-matter": "^4.0.3",
     "lath": "^0.7.6",
     "nprogress": "^0.2.0",
+    "overlayscrollbars": "2.0.0-beta.2",
     "pinia": "^2.0.22",
     "vue": "^3.2.39",
     "vue-demi": "^0.13.11",

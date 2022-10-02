@@ -22,6 +22,7 @@ specifiers:
   markdown-it-link-attributes: ^4.0.1
   markdown-it-shiki: ^0.5.1
   nprogress: ^0.2.0
+  overlayscrollbars: 2.0.0-beta.2
   pinia: ^2.0.22
   pnpm: ^7.11.0
   shiki: ^0.11.1
@@ -53,6 +54,7 @@ dependencies:
   gray-matter: 4.0.3
   lath: 0.7.6
   nprogress: 0.2.0
+  overlayscrollbars: 2.0.0-beta.2
   pinia: 2.0.22_arz4dztosvwy2ghjrlh2wdhejm
   vue: 3.2.39
   vue-demi: 0.13.11_vue@3.2.39
@@ -6483,6 +6485,10 @@ packages:
   /ospath/1.2.2:
     resolution: {integrity: sha512-o6E5qJV5zkAbIDNhGSIlyOhScKXgQrSRMilfph0clDfM0nEnBOlKlH4sWDmG95BW/CvwNz0vmm7dJVtU2KlMiA==}
     dev: true
+
+  /overlayscrollbars/2.0.0-beta.2:
+    resolution: {integrity: sha512-OVcUnAZTf8hGppl0y+6IMEUSAMAJWzPE/bWtoHygyObcI4p33+JNDqFEwxxToviNWr6Vo6GgI1T7gwGiuzAlzw==}
+    dev: false
 
   /p-finally/1.0.0:
     resolution: {integrity: sha512-LICb2p9CB7FS+0eR1oqWnHhp0FljGLZCWBE9aix0Uye9W8LTQPwMTYVGWQWIw9RdQiDg4+epXQODwIYJtSJaow==}
