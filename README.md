@@ -4,6 +4,7 @@
 - ✨ like code, also like to change the world.
 <p align="center">
   <samp>
+    <a href="https://soonIter.site">blog</a> .
     <a href="https://github.com/SoonIter">Github</a> .
     <a href="https://twitter.com/Soon_Iter">twitter</a> .
     <a href="https://space.bilibili.com/12711514/">bilibili</a> .
