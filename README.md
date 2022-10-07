@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoonIter ,a college student in CUMT China
 - 🎨 I’m interested in frontend, javascript
-- 🌱 frontend group leader in <a href="https://github.com/cumtflyingstudio">FlyingStudio</a> which is an organization in my college.
+- 🌱 frontend group leader in <a href="https://github.com/cumtflyingstudio">FlyingStudio</a> , an organization in my college.
 - ✨ like code, also like to change the world.
 <p align="center">
   <samp>
@@ -14,7 +14,7 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sooniter&amp;show_icons=true">
+<img src="https://github-readme-stats-sooniter.vercel.app/api?username=sooniter&amp;show_icons=true">
 
 
 #### Languages
@@ -63,39 +63,39 @@
 <details>
 <summary>For my own</summary>
 <a href="https://github.com/SoonIter/pinia-dux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=pinia-dux" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=pinia-dux" />
 </a>
 <a href="https://github.com/SoonIter/semi-design-solid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=semi-design-solid" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=semi-design-solid" />
 </a>
 <a href="https://github.com/SoonIter/soon-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=soon-cli" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=soon-cli" />
 </a>
 <a href="https://github.com/SoonIter/type-challenges-sooniter-answers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=type-challenges-sooniter-answers" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=type-challenges-sooniter-answers" />
 </a>
 </details>
 
 <details>
 <summary>Solid-js</summary>
 <a href="https://github.com/SoonIter/semi-design-solid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=semi-design-solid" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=semi-design-solid" />
 </a>
 <a href="https://github.com/SoonIter/solid-hookstore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=solid-hookstore" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=solid-hookstore" />
 </a>
 <a href="https://github.com/SoonIter/unplugin-svg2solid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=unplugin-svg2solid" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=unplugin-svg2solid" />
 </a>
 </details>
 
 <details>
 <summary>Tampermonkey-script</summary>
 <a href="https://github.com/cumtflyingstudio/tampermonkey-emoji-commit-github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
 </a>
 <a href="https://github.com/SoonIter/tampermonkey-removePrefix-bilibili">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sooniter&repo=tampermonkey-removePrefix-bilibili" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=tampermonkey-removePrefix-bilibili" />
 </a>
 </details>
 
@@ -103,22 +103,22 @@
 <details>
 <summary>For My Team</summary>
 <a href="https://github.com/cumtflyingstudio/tampermonkey-emoji-commit-github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
 </a>
 <a href="https://github.com/cumtflyingstudio/qiangcaima">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=qiangcaima" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=qiangcaima" />
 </a>
 <a href="https://github.com/cumtflyingstudio/slidev-theme-flyingstudio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=slidev-theme-flyingstudio" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=slidev-theme-flyingstudio" />
 </a>
 <a href="https://github.com/cumtflyingstudio/github-learn-board">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=github-learn-board" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=github-learn-board" />
 </a>
 <a href="https://github.com/cumtflyingstudio/usePagination">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cumtflyingstudio&repo=usePagination" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=usePagination" />
 </a>
 <a href="https://github.com/SoonIter/flying-email-html-generate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoonIter&repo=flying-email-html-generate" />
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=SoonIter&repo=flying-email-html-generate" />
 </a>
 </details>
 
