@@ -16,7 +16,7 @@
 
 
 [![Stats PR Issue](https://github-readme-stats-sooniter.vercel.app/api?username=sooniter&amp;show_icons=true)](https://github.com/sooniter)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooniter&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooniter&langs_count=9&layout=compact)](https://github.com/sooniter)
 
 #### Languages
 
