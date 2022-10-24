@@ -123,5 +123,11 @@
 </a>
 </details>
 
+<details>
+<summary>Just for fun</summary>
+<a href="https://github.com/SoonIter/cumt-ex">
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=cumt-ex" />
+</a>
 
+</details>
 
