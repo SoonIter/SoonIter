@@ -61,7 +61,7 @@
 <!-- tools:end -->
 
 
-#### My Owesome Projects
+#### My Awesome Projects
 <details>
 <summary>For my own</summary>
 <a href="https://github.com/SoonIter/pinia-dux">
