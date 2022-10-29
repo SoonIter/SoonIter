@@ -122,6 +122,11 @@
 <a href="https://github.com/SoonIter/flying-email-html-generate">
   <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=SoonIter&repo=flying-email-html-generate" />
 </a>
+
+<a href="https://github.com/SoonIter/dsemi-react-playground-repl">
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=SoonIter&repo=dsemi-react-playground-repl" />
+</a>
+  
 </details>
 
 <details>
