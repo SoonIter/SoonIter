@@ -76,6 +76,9 @@
 <a href="https://github.com/SoonIter/type-challenges-sooniter-answers">
   <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=type-challenges-sooniter-answers" />
 </a>
+<a href="https://github.com/SoonIter/rustlings-answers">
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=rustlings-answers" />
+</a>
 </details>
 
 <details>
@@ -107,9 +110,6 @@
 <a href="https://github.com/cumtflyingstudio/tampermonkey-emoji-commit-github">
   <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=tampermonkey-emoji-commit-github" />
 </a>
-<a href="https://github.com/cumtflyingstudio/qiangcaima">
-  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=qiangcaima" />
-</a>
 <a href="https://github.com/cumtflyingstudio/slidev-theme-flyingstudio">
   <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=slidev-theme-flyingstudio" />
 </a>
@@ -134,5 +134,7 @@
 <a href="https://github.com/SoonIter/cumt-ex">
   <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=sooniter&repo=cumt-ex" />
 </a>
-
+<a href="https://github.com/cumtflyingstudio/qiangcaima">
+  <img align="center" src="https://github-readme-stats-sooniter.vercel.app/api/pin/?username=cumtflyingstudio&repo=qiangcaima" />
+</a>
 </details>
