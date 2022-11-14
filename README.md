@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoonIter ,a college student in CUMT China
+- 👋 Hi, I’m @SoonIter, CUMT, China
 - 🎨 I’m interested in frontend, javascript
 - 🌱 frontend group leader in <a href="https://github.com/cumtflyingstudio">FlyingStudio</a> , an organization in my college.
 - ✨ like code, also like to change the world.
