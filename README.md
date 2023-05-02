@@ -17,7 +17,7 @@
 
 [![Stats PR Issue](https://github-readme-stats-sooniter.vercel.app/api?username=sooniter&amp;show_icons=true)](https://github.com/sooniter)
 [![Top Langs](https://github-readme-stats-sooniter.vercel.app/api/top-langs/?username=sooniter&langs_count=9&layout=compact)](https://github.com/sooniter)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sooniter&layout=compact&langs_count=4)](https://github.com/sooniter/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sooniter&layout=compact&langs_count=4)](https://github.com/sooniter/github-readme-stats) -->
 
 #### Languages
 
