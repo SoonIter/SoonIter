@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoonIter, you can call me "Soon", and currently working on web infrastructure, Hangzhou
-- 🔨 Monorepo & Package manager Explorer & Dependencies Doctor
-- 🦀 Cool things makes me happy, and just like any other person I hope to change the world
+- 🦀 Rstack Contributor & Error Translation Engineer & Package Manager Explorer
+- 🕶️ Cool things make me happy
 
 <p align="center">
   <samp>
